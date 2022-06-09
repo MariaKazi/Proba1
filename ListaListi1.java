@@ -1,4 +1,5 @@
 //novi komentar
+//novi komentar 2
 /*
  - Dodaje novu grupu sa datim nazivom i brojem sale
  - Dodaje studenta u grupu sa datim nazivom sortirano po broju indeksa. Student se ne moze dodati u grupu koja 
